@@ -1,0 +1,4 @@
+# Ignore PhpStorm Project Files
+.idea/*
+
+todo/*

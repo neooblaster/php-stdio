@@ -1,0 +1,22 @@
+{
+    "name": "neooblaster/php-stdio",
+    "description": "A PHP Class to communicate with stdin, stdou and stderr for Linux.",
+    "type": "library",
+    "keywords": ["php", "stdout", "stderr", "cli", "sapi", "sapi-cli"],
+    "license": "GPL-3.0-or-later",
+    "authors": [
+        {
+            "name": "Nicolas DUPRE",
+            "email": "neo-blaster@hotmail.fr",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "psr-0": {
+            "stdio\\": "src/"
+        }
+    }
+}
